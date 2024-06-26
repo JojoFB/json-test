@@ -1,22 +1,22 @@
 {
-    "pessoas": [
+   "pessoas": [
         {
             "id": 1,
-            "nome": "Francisco",
-            "foto": "/src/img/chico.jpg",
-            "github": "https://github.com/danielheringerr"
+            "nome": "Vitor Mendonça",
+            "foto": "/src/img/vitor.jpg",
+            "github": "https://github.com/VitorMendoncaBraga"
         },
         {
             "id": 2,
-            "nome": "Carolina",
-            "foto": "/src/img/carol.jpg",
+            "nome": "Estevão Cunha",
+            "foto": "/src/img/tevin.jpg",
             "github": "https://github.com/Tevin3s"
         },
         {
             "id": 3,
-            "nome": "Jorginho",
-            "foto": "/src/img/jorgin.jpg",
-            "git": "https://github.com/Ikaynm"
+            "nome": "Bruno Xavier",
+            "foto": "/src/img/bruno.jpg",
+            "github": "https://github.com/BrunoXaviers"
         }
     ],
 
